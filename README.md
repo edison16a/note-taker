@@ -1,6 +1,6 @@
 # Note Taker (Real-Time Voice Transcription)
 
-edison-note-taker.vercel.app
+https://edison-note-taker.vercel.app/
 
 A simple, local-first note taker that uses **Chrome’s built-in speech recognition** to create **real-time transcriptions** while you’re in class.
 
