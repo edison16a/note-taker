@@ -11,16 +11,8 @@ You can:
 - Everything saves **locally in your browser** (`localStorage`) — no account, no backend
 - Download any session as a **.txt** file
 
----
 
-## Requirements
-- **Google Chrome (desktop recommended)**
-- Mic permission enabled
-- Works on **http://localhost** or **HTTPS** (browser requirement)
-
----
-
-## Screenshots
+# Screenshots
 
 <img width="1202" height="756" alt="Screenshot 2026-01-08 at 10 01 16 AM" src="https://github.com/user-attachments/assets/7c7b65db-04fd-4d36-98a7-93a39eaba776" />
 
